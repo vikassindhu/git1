@@ -1,1 +1,1 @@
-echo "hello"
+mkdir C:\Users\viksindh\Documents\Github\vikas
